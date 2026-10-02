@@ -1,0 +1,50 @@
+[
+  {
+    "id": "fracciones",
+    "title": "Misión: fracciones",
+    "description": "Pon a prueba tus ideas y descubre cuánto representa cada parte del todo.",
+    "subject": "Matemáticas",
+    "level": "Primaria",
+    "kind": "actividad",
+    "uses_ai": 0,
+    "demo": true,
+    "url": "ejemplos/fracciones.html",
+    "download": "ejemplos/fracciones.html"
+  },
+  {
+    "id": "ia",
+    "title": "Detectives de la IA",
+    "description": "¿Confiar o verificar? Aprende a tomar decisiones al usar inteligencia artificial.",
+    "subject": "Tecnología e IA",
+    "level": "Secundaria",
+    "kind": "actividad",
+    "uses_ai": 1,
+    "demo": true,
+    "url": "ejemplos/ia.html",
+    "download": "ejemplos/ia.html"
+  },
+  {
+    "id": "planeta",
+    "title": "Pequeñas acciones, gran planeta",
+    "description": "Explora decisiones cotidianas que ayudan a cuidar nuestro entorno.",
+    "subject": "Ciencias",
+    "level": "Primaria",
+    "kind": "actividad",
+    "uses_ai": 0,
+    "demo": true,
+    "url": "ejemplos/planeta.html",
+    "download": "ejemplos/planeta.html"
+  },
+  {
+    "id": "proyecto",
+    "title": "Un cuento, muchas posibilidades",
+    "description": "Una propuesta para escribir, contrastar ideas con IA y crear un final propio.",
+    "subject": "Lenguaje",
+    "level": "Todos los niveles",
+    "kind": "proyecto",
+    "uses_ai": 1,
+    "demo": true,
+    "url": "ejemplos/proyecto.html",
+    "download": "ejemplos/proyecto.html"
+  }
+]

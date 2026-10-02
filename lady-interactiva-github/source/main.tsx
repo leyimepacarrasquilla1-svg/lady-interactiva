@@ -1,0 +1,1 @@
+import React from 'react';import {createRoot} from 'react-dom/client';import Portal from './portal';const view=document.body.dataset.view||'inicio';createRoot(document.getElementById('app')!).render(<Portal view={view}/>);
