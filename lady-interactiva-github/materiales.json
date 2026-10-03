@@ -1,5 +1,16 @@
 [
   {
+    "id": "6f3d9f19-9384-479b-81cd-7d4bc5c1b5a0",
+    "title": "Laboratorio interactivo de Arduino",
+    "description": "## Laboratorio interactivo de Arduino\n\nEn esta aplicación aprenderás y reforzarás conceptos fundamentales para construir, analizar y programar circuitos con Arduino. Mediante ejercicios, imágenes, simuladores y retos con valores diferentes, podrás practicar las veces que necesites y recibir retroalimentación inmediata.\n\n### ¿Qué aprenderás?\n\nDurante el recorrido aprenderás a:\n\n- Identificar las etapas de un sistema: **entrada, proceso y salida**.\n- Diferenciar sensores, controladores, actuadores y elementos de conexión.\n- Reconocer componentes electrónicos y sus símbolos.\n- Calcular la resistencia adecuada para proteger un LED.\n- Comprender por qué los componentes deben compartir una conexión a **GND**.\n- Analizar el funcionamiento de un divisor de voltaje con una LDR.\n- Configurar los pines de Arduino mediante `pinMode`, `analogRead` y `digitalWrite`.\n- Utilizar condicionales para que Arduino tome decisiones.\n- Integrar los conocimientos adquiridos en el reto final de una lámpara inteligente.\n\n### ¿Cómo utilizar la aplicación?\n\n1. Escribe tu nombre y curso en los espacios correspondientes y selecciona **Guardar datos**.\n2. Recorre las siete estaciones utilizando el menú de la parte superior.\n3. Lee cuidadosamente las instrucciones antes de responder.\n4. Observa las imágenes, diagramas, valores y resultados de los simuladores.\n5. Selecciona, calcula, compara o completa el código según lo solicitado.\n6. Lee la retroalimentación que aparece después de cada respuesta.\n7. Si tienes dificultades, revisa la explicación y repite el ejercicio. Los datos y valores cambiarán para ayudarte a practicar.\n8. Completa todas las estaciones y realiza el reto final.\n9. Al terminar, revisa tu puntaje y la nota obtenida. También podrás imprimir la evidencia final.\n\nLa aplicación tiene un puntaje máximo de **100 puntos**, equivalente a una nota de **5,0**. Puedes repetir los ejercicios cuantas veces lo necesites, pero cada estación tiene un puntaje máximo, por lo que el resultado total nunca superará los 100 puntos.\n\nTrabaja con atención, analiza antes de responder y utiliza los errores como una oportunidad para aprender. El propósito no es terminar rápidamente, sino comprender cómo funcionan el circuito y la programación de Arduino.",
+    "kind": "proyecto",
+    "subject": "Tecnología e IA",
+    "level": "Media",
+    "uses_ai": 0,
+    "url": "materiales/laboratorio-interactivo-arduino.html",
+    "download": "materiales/laboratorio-interactivo-arduino.html"
+  },
+  {
     "id": "fracciones",
     "title": "Misión: fracciones",
     "description": "Pon a prueba tus ideas y descubre cuánto representa cada parte del todo.",
